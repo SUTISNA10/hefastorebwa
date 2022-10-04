@@ -31,12 +31,15 @@ body {
 }
 
 /* Features */
-.features h3 {
+.features h3,
+.designer h3 {
   font-family: "Lora";
   color: #1b2690;
   font-weight: bold;
 }
-.features p {
+.features p,
+.designer p,
+footer p {
   color: #b7b7b7;
   font-weight: 200;
 }

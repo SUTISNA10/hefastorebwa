@@ -34,13 +34,15 @@ body {
 
 /* Features */
 .features h3,
-.designer h3 {
+.designer h3,
+.similar-product h3 {
   font-family: "Lora";
   color: #1b2690;
   font-weight: bold;
 }
 .features p,
 .designer p,
+.similar-product p,
 footer p {
   color: #b7b7b7;
   font-weight: 200;
@@ -142,8 +144,8 @@ footer p {
 .product-review p {
   font-size: 14px !important;
 }
-
-/* Footer */
-footer {
-  margin-top: 150px;
+/* Similar Product */
+.similar-product {
+  margin-top: 180px;
+  margin-bottom: 100px;
 }
